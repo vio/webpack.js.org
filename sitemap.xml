@@ -127,6 +127,9 @@
         <loc>https://webpack.js.org/blog/printable</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/concepts/dependency-graph</loc>
     </url>
     <url>
@@ -134,9 +137,6 @@
     </url>
     <url>
         <loc>https://webpack.js.org/concepts/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/concepts/loaders</loc>
@@ -490,13 +490,13 @@
         <loc>https://webpack.js.org/plugins/dll-plugin</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/plugins/environment-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/plugins/eslint-webpack-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/eval-source-map-dev-tool-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/plugins/environment-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/plugins/hashed-module-ids-plugin</loc>
